@@ -1,2 +1,7 @@
 # chatpdf
-chat with your own pdf
+RAG homework
+
+运行:
+```
+python web_demo.py
+```
