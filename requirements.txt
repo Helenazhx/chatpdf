@@ -1,0 +1,7 @@
+openai
+python-dotenv
+pdfminer.six
+chromadb==0.4.15
+gradio
+pypdf
+langchain
